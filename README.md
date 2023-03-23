@@ -1,4 +1,9 @@
-### Ola! Eu sou a Mayla Nagai 👋 Bem vindo ao meu Perfil 
+## Oii. Eu sou a Mayla Nagai 👋 Bem vindo ao meu Perfil!
+
+
+>Graduada em Ciência da Computação na Universidade Estadual do Norte do Parana (UENP). Foi participante do colegiado e comitê executivo do curso de Ciência da Computação no Centro de Ciência e Tecnologia (CCT) da UENP. Desenvolveu projeto de iniciação cientifica sobre a Detecção de fogo e fumaça em vídeos usando remoção de fundo e Redes Neurais Convolucionais, publicado no workshop de trabalhos da graduação - CONFERENCE ON GRAPHICS, PATTERNS AND IMAGES (SIBGRAPI).
+
+##
 
 <div>
 <a href="https://github.com/maynagai">
