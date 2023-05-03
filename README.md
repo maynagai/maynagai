@@ -9,12 +9,6 @@
 
 ##
 
-<div>
-<a href="https://github.com/maynagai">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maynagai&show_icons=true&theme=transparent" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maynagai&layout=compact&show_icons=true&theme=transparent" />
-</a>
-</div>
 <div style="display: inline_block"><br>         
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
