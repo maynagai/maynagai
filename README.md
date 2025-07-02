@@ -14,10 +14,9 @@
 
 <div>
 <a href="https://github.com/maynagai">
-  <!--img height="180cm" src="https://github-readme-stats.vercel.app/api?username=maynagai&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maynagai&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" /-->
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maynagai&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
-</div>
+
 <div style="display: inline_block"><br>         
   <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -27,6 +26,14 @@
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" >
 </div>
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maynagai/maynagai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maynagai/maynagai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maynagai/maynagai/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
